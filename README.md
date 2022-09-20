@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Anderson Lourenço
 
 - 🌱 Estudando front-end e swift
-<div>
+<div align="center">
   <a href="https://github.com/andersonlourenc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonlourenc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlourenc&layout=compact&langs_count=7&theme=dark"/>
