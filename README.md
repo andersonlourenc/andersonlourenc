@@ -1,8 +1,5 @@
 
-## Hello! I'm Anderson Lourenço 👋
-
-
-### 🚀 About Me
+### Hello! I'm Anderson Lourenço 👋
 
 - 💻 I'm a **Computer Science** student and aspiring **mobile developer**.
 - 📱 Currently focused on learning **Kotlin** and building Android apps.
