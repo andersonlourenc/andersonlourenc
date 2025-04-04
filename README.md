@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**andersonlourenc/andersonlourenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! I'm Anderson Lourenço 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 I'm a **Computer Science** student and aspiring **mobile developer**.
+- 📱 Currently focused on learning **Kotlin** and building Android apps.
+- 🔐 Passionate about **Cybersecurity**, **IoT**, and **AI**.
+- 📚 Also studying for public service exams and improving my English skills.
+
+---
+<div align="center">
+  <a href="https://github.com/andersonlourenc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonlourenc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlourenc&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Andim-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+ 
+  <img align="center" alt="Andim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Andim-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+
+---
+
+### 🌍 Connect with me
+
+<div>
+  <a href="https://instagram.com/andersonlourenc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:andersonldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andersonlourenc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
