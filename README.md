@@ -6,8 +6,6 @@
 
 - 💻 I'm a **Computer Science** student and aspiring **mobile developer**.
 - 📱 Currently focused on learning **Kotlin** and building Android apps.
-- 🔐 Passionate about **Cybersecurity**, **IoT**, and **AI**.
-- 📚 Also studying for public service exams and improving my English skills.
 
 ---
 <div align="center">
