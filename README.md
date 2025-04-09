@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andim-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt="Andim-Cplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Cplus/Cplus-original.svg">
+ <img align="center" alt="Andim-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Cplusplus/Cplusplus-original.svg">
   <img align="center" alt="Andim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andim-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
